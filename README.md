@@ -2,6 +2,10 @@
 
 A classic Rock-Paper-Scissors game implemented in JavaScript that runs in the browser using popup dialogs.
 
+## 🎮 Play Now
+
+**[Play the Game](https://erickbuka.github.io/Rock-Paper-Scissors/)**
+
 ## Description
 
 This is a simple browser-based implementation of the classic hand game Rock-Paper-Scissors. The player competes against the computer over 5 rounds, with the winner determined by the best overall score.
